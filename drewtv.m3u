@@ -155,11 +155,13 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/807.m3u8
 #EXTINF:-1 group-title="Malaysia - Astro" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.m3u8
 
-#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
+#EXTINF:-1 group-title="Indihome" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
 https://ln.run/7rN1n
 
-#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
-http://45.89.149.42:1234/stream/juneannexstream/afn/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="Asianfoodnetwork.ph" tvg-name="AFN.ph" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
 
 #EXTINF:-1 group-title="Cignal" ch-number="24" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.imgur.com/Rh80p0K.png",Bilyonaryo Channel 🇵🇭
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -288,7 +290,7 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://wag.ika.lat/stream/1724835397​
 
 #EXTINF:-1 group-title="Backup" ch-number="" tvg-id="CINEMO!.ph" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/cine-mo-ph.png?raw=true",CINEMO! 🇵🇭
-https://bit.ly/4hiUdRY
+Down
 
 #EXTINF:-1 group-title="Philippines" ch-number="" tvg-id="Movie.Dummy.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzfN0CVLytsO1NMglbfyNQEMGxrYfhUdj9ZKR2nIBEem6IuDkUHvColoIixqz6U4BWPUQWcY3470oz5xwafSQskL47Pzx1mjsb2gSdTBN3NXXiX6B9Aj8LACvxfQt_QO-A5S5QE88M7_ca/s1600/cine-mo-channel-tv-logo.png",CINEMO! Global 🇵🇭
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
@@ -316,6 +318,9 @@ https://raw.githubusercontent.com/ex3mpli/bisdak-iptv/refs/heads/main/live/disco
 
 #EXTINF:-1 group-title="Indonesia" ch-number="" tvg-id="Discovery.Asia.(HD).sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/discovery-asia-hk.png?raw=true",Discovery Asia 🇮🇩
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
+
+#EXTINF:-1 group-title="Backup" tvg-id="DISCOVERYASIA.ph" tvg-name="DISCOVERYASIA.ph" tvg-logo="https://i.imgur.com/SbiPKql.png",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 group-title="US" ch-number="" tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true",Discovery Channel 🇺🇸
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
