@@ -144,7 +144,7 @@ https://ytl2.majinken.workers.dev/@CNAInsider.m3u8
 #EXTINF:-1 group-title="iseeu"ch-number="" tvg-id="24.7.Dummy.us" tvg-logo="https://yt3.ggpht.com/0i-Y1gvY53RQGXdlQigtqp4yNQRTudeO-MJ7khXddxqnr3KrYlEpyUXC3OGaEvgAbLN4CMDLVg=s88-c-k-c0x00ffffff-no-rj",CNA Insider 🇸🇬
 https://iseeu.tiiny.io/?url=https://www.youtube.com/@CNAInsider/live
 
-#EXTINF:-1 group-title="Indonesia" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
+#EXTINF:-1 group-title="Down" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
@@ -318,9 +318,6 @@ https://raw.githubusercontent.com/ex3mpli/bisdak-iptv/refs/heads/main/live/disco
 
 #EXTINF:-1 group-title="Indonesia" ch-number="" tvg-id="Discovery.Asia.(HD).sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/discovery-asia-hk.png?raw=true",Discovery Asia 🇮🇩
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-
-#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="DISCOVERYASIA.ph" tvg-name="DISCOVERYASIA.ph" tvg-logo="https://i.imgur.com/SbiPKql.png",Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="DISCOVERYCHANNEL.ph" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true",Discovery Channel 🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
@@ -502,6 +499,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 group-title="UK_Rakuten" ch-number="" tvg-id="GBAJ49000184K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/travelxp-in.png?raw=true",travelxp 🇬🇧
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SamsungTV" ch-number="" channel-id="SamsungTVPlus-USBB1900006NY" tvg-name="VICE" tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20240520T214721SQUARE.png",VICE
+https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB1900006NY
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="SamsungTV" ch-number="" tvg-id=GBBD1100001UI" tvg-name="World War TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240904T162714SQUARE.png",World War TV 📺
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -580,6 +580,18 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9a
 
 #EXTINF:-1 group-title="Backup" ch-number="" channel-id="SamsungTVPlus-USBC36000073J" tvg-name="RetroCrush" tvg-id="USBC36000073J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20240520T214828SQUARE.png",RetroCrush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 group-title="Korea" ch-number="" tvg-id="Arirang.Radio.kr" tvg-logo="https://cdn-radiotime-logos.tunein.com/s81696d.png",Arirang Radio 🇰🇷
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Arirang.Radio.kr" tvg-logo="https://cdn-radiotime-logos.tunein.com/s81696d.png",Arirang Radio 🇰🇷
+https://ytl1.majinken.workers.dev/stream/Music180Arirang/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Arirang.Radio.kr" tvg-logo="https://cdn-radiotime-logos.tunein.com/s81696d.png",Arirang Radio 🇰🇷
+https://ytl2.majinken.workers.dev/@Music180Arirang.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Arirang.Radio.kr" tvg-logo="https://cdn-radiotime-logos.tunein.com/s81696d.png",Arirang Radio 🇰🇷
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@Music180Arirang/live
 
 #EXTINF:-1 group-title="Korea" ch-number="" tvg-id="Arirang.World.kr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/arirang-int.png?raw=true",Arirang 🇰🇷
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -794,6 +806,9 @@ https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d7
 #EXTINF:-1 group-title="US_PlutoTV" ch-number="" tvg-id="668c5d3bfd9eb2000882bb50" tvg-name="ONE Championship TV" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png",ONE Championship TV 🇺🇸
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
 
+#EXTINF:-1 group-title="SamsungTV" ch-number="" channel-id="SamsungTVPlus-USBD1700019RN" tvg-name="MAVTV Select" tvg-id="USBD1700019RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20240528T020739SQUARE.png",MAVTV Select
+https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1700019RN
+
 #EXTINF:-1 group-title="US" ch-number="" tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true",MLB Network 🇺🇸
 https://webhdrunns.mizhls.ru/lb/premium399/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -882,3 +897,240 @@ https://wag.ika.lat/trese/spotv2hd_dr.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
+#EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://logodix.com/logo/1861665.png",PPV HD 🇵🇭
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+
+#EXTINF:-1 group-title="SamsungTV" ch-number="" channel-id="SamsungTVPlus-USBD1700009P5" tvg-name="World Poker Tour" tvg-id="USBD1700009P5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20240520T220204SQUARE.png",World Poker Tour
+https://dx475k80omgk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pw99oafctey65/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1700009P5
+
+#EXTINF:-1 group-title="Roxi" ch-number="" tvg-id="Music.Dummy.us" tvg-name="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 80s 🇬🇧
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Roxi" ch-number="" tvg-id="Music.Dummy.us" tvg-name="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 90s 🇬🇧
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Roxi" ch-number="" tvg-id="Music.Dummy.us" tvg-name="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 00s 🇬🇧
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3500022DN" tvg-name="Greatest Holiday Hits" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20241105T024201SQUARE.png",Greatest Holiday Hits
+https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500022DN
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065?ops=fit(480%2C480)",iHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://majinken.x10.mx/kpop-fondo.png",KPOP 🇰🇷
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-US39000038W" tvg-name="K-POP by CJ ENM" tvg-id="US39000038W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png",K-POP by CJ ENM 🇰🇷
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png",MTV: Best of
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a6939b4a10d800085cee92/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png",MTV Biggest Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994&serverSideAds=false
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="MTVHitsFrance.fr" tvg-logo="https://iili.io/Jmofcle.png",MTV Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png",MTV Love Songs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b80acac5329000740c022/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png",MTV Love Songs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b80acac5329000740c022/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://images.pluto.tv/channels/6331a50a0eba1900080bd911/colorLogoPNG.png",MTV Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6331a50a0eba1900080bd911/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45&serverSideAds=false
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/mtv-music-uk.png?raw=true",MTV Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2&serverSideAds=false
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png",MTV Spankin' New
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=10
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png",MTV Spankin' New
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=10
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+
+#EXTINF:-1 group-title="Music" ch-number=""tvg-id="MYX.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MYX_new_logo.svg/2560px-MYX_new_logo.svg.png",MYX 🇵🇭
+http://115.146.176.131:80/TimRizal/TimRizal/66.m3u8
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png",MYX Global 🇵🇭
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="plex.tv.NEW.K-POP.plex" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg",NEW K.POP 🇺🇸
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d/variant.m3u8?url=23f49e52332faa9c13748a84710d275e-45b2b7686bcef513f6dc0f84d0b51acd2ec83ad345aa872fe910562ddb7641349d29ff0be5f4cc1d28bbcb39051a9adc18032056145c1af25e33803062cf643546a7eb782c0849e14cff73b0649ac2b799ed10939705a0227df93aade750f04bd130b00ba97642406fa95c4691a773c9b8ba4f4e800d425bb7e173e47ec5c61e5b25d68f08e9caf9435f7da143a173b55918a733b8deac5c7fd5aee4bf68c57ca3efd94e10f0e17619b0bf647bd2e0557e0caedbc3f9eea1a4efbba101c9e52e&x-plex-token=x88uMhP5zf6qSxiY8AqS&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1729938274
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="plex.tv.NEW.K-POP.plex" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg",NEW K.POP 🇺🇸
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=GzeW-cKbTzVAKGGWwdfw
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-name="NEW KPOP" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" ch-number="",NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+#EXTINF:-1 group-title="OtteraTV" ch-number="" channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-name="NEW KPOP" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png",NEW KPOP
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD350002623" tvg-name="Stingray Classica" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20241105T024159SQUARE.png",Stingray Classica
+https://d2bpmlqcx2tu90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0e1oqtyors2s/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350002623
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3500025GS" tvg-name="Stingray DJAZZ" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png",Stingray DJAZZ
+https://d1or3dijypy7w9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500025GS
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3500011J3" tvg-name="Stingray Easy Listening" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240520T212830SQUARE.png",Stingray Easy Listening
+https://dplpbqigtm6i2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qhbu7pvq86ff3/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500011J3
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USAK3508705A" tvg-name="Stingray Naturescape" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png",Stingray Naturescape
+https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD35000149S" tvg-name="Stingray Nothin' But 90s" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20240826T191209SQUARE.png",Stingray Nothin' But 90s
+https://dgxid9pkkhl5v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eh5fc0owefye7/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD35000149S
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3300022QK" tvg-name="Stingray Remember the 80s" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20240611T050303SQUARE.png",Stingray Remember the 80s
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300022QK
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD35000128A" tvg-name="Stingray Smooth Jazz" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240520T212848SQUARE.png",Stingray Smooth Jazz
+https://d3p7th0srqyelz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wnw7fmxlfartw/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD35000128A
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3500016NH" tvg-name="Stingray Today's K-Pop" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png",Stingray Today's K-Pop
+https://d1nmpy6yoh39yl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o9q511t0qlhez/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500016NH
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD300011KQ" tvg-name="Vevo '70s" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240910T003722SQUARE.png",Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-70s-vod.png?raw=true" group-title="US_PlutoTV",Vevo '70s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD300012YC" tvg-name="Vevo '80s" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240910T003724SQUARE.png",Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.samsung.com%2Fis%2Fimage%2Fsamsung%2Fassets%2Fnz%2Ftvs%2Fsmart-tv%2Fsamsung-tv-plus%2Fall-channels%2FVevo-80s_1838.png%3F%24296_164_PNG%24&f=1&nofb=1&ipt=d4c52bb7c133ff8c79bb51a0f18aa03692c12ee4d6ec19700f4bf02ddda905cd&ipo=images",Vevo '80s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3000133M" tvg-name="Vevo '90s" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240910T003727SQUARE.png",Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.samsung.com%2Fis%2Fimage%2Fsamsung%2Fassets%2Fnz%2Ftvs%2Fsmart-tv%2Fsamsung-tv-plus%2Fall-channels%2FVevo-90s_1839.png%3F%24296_164_PNG%24&f=1&nofb=1&ipt=257f5364515b05d7481456235ece57e7dc510845cbf02881ec5f68ebe8eac073&ipo=images",Vevo '90s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD120002431" tvg-name="Vevo 2010s" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240910T003711SQUARE.png",Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBB4400015F5" tvg-name="Vevo 2K" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240910T003709SQUARE.png",Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+
+#EXTINF:-1 group-title="Music" ch-number="" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-2k-vod.png?raw=true",Vevo 2K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD1200008GL" tvg-name="Vevo Holiday" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20241105T024425SQUARE.png",Vevo Holiday
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBC3600008WY" tvg-name="Vevo Pop" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240924T011028SQUARE.png",Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBC3900009K5" tvg-name="Vevo R&B" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240924T011030SQUARE.png",Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+
+#EXTINF:-1 group-title="Music" ch-number="" channel-id="SamsungTVPlus-USBD3000145P" tvg-name="Vevo Retro Rock" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg=s160-c-k-c0x00ffffff-no-rj",ALL THE K-POP 🇰🇷
+https://ytl1.majinken.workers.dev/stream/ALLTHEKPOP/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg=s160-c-k-c0x00ffffff-no-rj",ALL THE K-POP 🇰🇷
+https://ytl2.majinken.workers.dev/@ALLTHEKPOP.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/rt1bDWIkFPoQblyNJnQsf1LisM9i88QKRUU-NZu9fmQ0ogyLvUVVUJe1ufaEN0E8DiZk2RgYwg=s160-c-k-c0x00ffffff-no-rj",ALL THE K-POP 🇰🇷
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@ALLTHEKPOP/live
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Y9zURUydtpf0ZITdwNCqxDDMc08hTsPQXpwDJRq2exvePiunu8xDZidgkFUEu2lv3BiOsDZhSQ=s88-c-k-c0x00ffffff-no-rj",Anileap: アニリープ公式 by King Amusement Creative 🇯🇵
+https://ytl1.majinken.workers.dev/stream/KAC_official/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Y9zURUydtpf0ZITdwNCqxDDMc08hTsPQXpwDJRq2exvePiunu8xDZidgkFUEu2lv3BiOsDZhSQ=s88-c-k-c0x00ffffff-no-rj",Anileap: アニリープ公式 by King Amusement Creative 🇯🇵
+https://ytl2.majinken.workers.dev/@KAC_official.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Y9zURUydtpf0ZITdwNCqxDDMc08hTsPQXpwDJRq2exvePiunu8xDZidgkFUEu2lv3BiOsDZhSQ=s88-c-k-c0x00ffffff-no-rj",Anileap: アニリープ公式 by King Amusement Creative 🇯🇵
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@KAC_official/live
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s176-c-k-c0x00ffffff-no-rj",avex 24/7 Music 🇯🇵
+https://ytl1.majinken.workers.dev/stream/avexofficial/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s176-c-k-c0x00ffffff-no-rj",avex 24/7 Music 🇯🇵
+https://ytl2.majinken.workers.dev/@avexofficial.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mK-MLoldc3E_ltVdOwVtTo3EiRSKtKnqHi3EqIIfTkfUU=s176-c-k-c0x00ffffff-no-rj",avex 24/7 Music 🇯🇵
+https://iseeu.tiiny.io/?url=https://www.youtube.com/avexofficial/live
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/ZrwB9lDfqellVnrd5HkketVjSptI_2DCP-G5Zokkoh2PgCy7k5mefaBP6TRfosv0LorCMIJ9dQ=s88-c-k-c0x00ffffff-no-rj",Ghibli Relaxing Soul🎶🇯🇵
+https://ytl1.majinken.workers.dev/stream/ghibli.relaxingsoul/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/ZrwB9lDfqellVnrd5HkketVjSptI_2DCP-G5Zokkoh2PgCy7k5mefaBP6TRfosv0LorCMIJ9dQ=s88-c-k-c0x00ffffff-no-rj",Ghibli Relaxing Soul🎶🇯🇵
+https://ytl2.majinken.workers.dev/@ghibli.relaxingsoul.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/ZrwB9lDfqellVnrd5HkketVjSptI_2DCP-G5Zokkoh2PgCy7k5mefaBP6TRfosv0LorCMIJ9dQ=s88-c-k-c0x00ffffff-no-rj",Ghibli Relaxing Soul🎶🇯🇵
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@ghibli.relaxingsoul/live
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lofi_Girl_logo_%282024%29.svg/2560px-Lofi_Girl_logo_%282024%29.svg.png",Lofi Girl 🇫🇷
+https://ytl1.majinken.workers.dev/stream/lofigirl/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lofi_Girl_logo_%282024%29.svg/2560px-Lofi_Girl_logo_%282024%29.svg.png",Lofi Girl 🇫🇷
+https://ytl2.majinken.workers.dev/@lofigirl.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lofi_Girl_logo_%282024%29.svg/2560px-Lofi_Girl_logo_%282024%29.svg.png",Lofi Girl 🇫🇷
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@lofigirl/live
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kcXcgjU4A8Pj5xPx-8W_7CI41u7Oq2L7rxqhUnY1Zrme8=s160-c-k-c0x00ffffff-no-rj",The Good Life Radio 🇬🇧
+https://ytl1.majinken.workers.dev/stream/TheGoodLiferadio/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kcXcgjU4A8Pj5xPx-8W_7CI41u7Oq2L7rxqhUnY1Zrme8=s160-c-k-c0x00ffffff-no-rj",The Good Life Radio 🇬🇧
+https://ytl2.majinken.workers.dev/@TheGoodLiferadio.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kcXcgjU4A8Pj5xPx-8W_7CI41u7Oq2L7rxqhUnY1Zrme8=s160-c-k-c0x00ffffff-no-rj",The Good Life Radio 🇬🇧
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@TheGoodLiferadio/live
+
+#EXTINF:-1 group-title="Contributed" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Sf78Tu12_JgshfoEnx1ndkt_jzWFqV5YSz3zN289y7LodIVbp1DUgQGGIJMdCCeyHxwyAWXhNw=s88-c-k-c0x00ffffff-no-rj",THE K-POP 🇰🇷
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#https://www.youtube.com/@thekpop/live
+
+#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Sf78Tu12_JgshfoEnx1ndkt_jzWFqV5YSz3zN289y7LodIVbp1DUgQGGIJMdCCeyHxwyAWXhNw=s88-c-k-c0x00ffffff-no-rj",THE K-POP 🇰🇷
+https://ytl1.majinken.workers.dev/stream/thekpop/master.m3u8
+
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Sf78Tu12_JgshfoEnx1ndkt_jzWFqV5YSz3zN289y7LodIVbp1DUgQGGIJMdCCeyHxwyAWXhNw=s88-c-k-c0x00ffffff-no-rj",THE K-POP 🇰🇷
+https://ytl2.majinken.workers.dev/@thekpop.m3u8
+
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="Music.Dummy.us" tvg-logo="https://yt3.ggpht.com/Sf78Tu12_JgshfoEnx1ndkt_jzWFqV5YSz3zN289y7LodIVbp1DUgQGGIJMdCCeyHxwyAWXhNw=s88-c-k-c0x00ffffff-no-rj",THE K-POP 🇰🇷
+https://iseeu.tiiny.io/?url=https://www.youtube.com/@thekpop/live
+
+#EXTINF:-1 group-title="Ambiance" ch-number="" channel-id="SamsungTVPlus-US2900002P8" tvg-name="Holiday Fireplace Vibes" tvg-id="US2900002P8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900002P8_20241105T024339SQUARE.png",Holiday Fireplace Vibes
+https://docds5gyr3599.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wadxll2goooqs/SONO61.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900002P8
+
+#EXTINF:-1 group-title="Ambiance" ch-number="" channel-id="SamsungTVPlus-US14000030Y" tvg-name="Rainy Day Vibes" tvg-id="US14000030Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000030Y_20240625T011426SQUARE.png",Rainy Day Vibes
+https://d212n0gag0mjst.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zkllc6hk15tqf/SONO51.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US14000030Y
+
+#EXTINF:-1 group-title="Ambiance" ch-number="" channel-id="SamsungTVPlus-US1400014N9" tvg-name="Storm Vibes" tvg-id="US1400014N9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400014N9_20240923T174508SQUARE.png",Storm Vibes
+https://df7ah0yzgl23k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbhefwc1hszs2/SONO50.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US1400014N9
+
+#EXTINF:-1 group-title="Ambiance" ch-number="" channel-id="SamsungTVPlus-US14000155Y" tvg-name="Waterfall Vibes" tvg-id="US14000155Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000155Y_20240625T011442SQUARE.png",Waterfall Vibes
+https://d2d69nwkl0jeh7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a85upkl05uqt1/SONO56.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US14000155Y
