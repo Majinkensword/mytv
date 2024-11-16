@@ -319,7 +319,7 @@ https://raw.githubusercontent.com/ex3mpli/bisdak-iptv/refs/heads/main/live/disco
 #EXTINF:-1 group-title="Indonesia" ch-number="" tvg-id="Discovery.Asia.(HD).sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/discovery-asia-hk.png?raw=true",Discovery Asia 🇮🇩
 https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
-#EXTINF:-1 group-title="Backup" tvg-id="DISCOVERYASIA.ph" tvg-name="DISCOVERYASIA.ph" tvg-logo="https://i.imgur.com/SbiPKql.png",Discovery Asia
+#EXTINF:-1 group-title="Backup" ch-number="" tvg-id="DISCOVERYASIA.ph" tvg-name="DISCOVERYASIA.ph" tvg-logo="https://i.imgur.com/SbiPKql.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 group-title="US" ch-number="" tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true",Discovery Channel 🇺🇸
@@ -498,11 +498,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 group-title="SamsungTV" ch-number="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240904T162714SQUARE.png",World War TV 📺
+#EXTINF:-1 group-title="SamsungTV" ch-number="" tvg-id=GBBD1100001UI" tvg-name="World War TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240904T162714SQUARE.png",World War TV 📺
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 group-title="SamsungTV" ch-number="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240904T162714SQUARE.png",World War TV 📺
+#EXTINF:-1 group-title="SamsungTV" ch-number="" tvg-id=GBBD1100001UI" tvg-name="World War TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20240904T162714SQUARE.png",World War TV 📺
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="SamsungTV" ch-number="" tvg-id="USBC2100008DP" tvg-logo="https://i.imgur.com/WaGRlFO.png",Xplore 🇺🇸📺
@@ -621,7 +621,7 @@ https://ytl1.majinken.workers.dev/stream/kbsworldtv/master.m3u8
 #EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="KBS1.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYneSzNh7_fxCLOOkFxVaMDd55aFmPFY9NvFb_i-R8EKjE=s160-c-k-c0x00ffffff-no-rj",KBS 🇰🇷
 https://ytl2.majinken.workers.dev/@kbsworldtv.m3u8
 
-#EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="KBS1.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYneSzNh7_fxCLOOkFxVaMDd55aFmPFY9NvFb_i-R8EKjE=s160-c-k-c0x00ffffff-no-rj",KBS 🇰🇷
+#EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="KBS1.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nYneSzNh7_fxCLOOkFxVaMDd55aFmPFY9NvFb_i-R8EKjE=s160-c-k-c0x00ffffff-no-rj",KBS 🇰🇷
 https://iseeu.tiiny.io/?url=https://www.youtube.com/@kbsworldtv/live
 
 #EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="Kix.Hd.ph" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-asia/kix-asi.png?raw=true",KIX 🇵🇭
@@ -700,6 +700,21 @@ https://iseeu.tiiny.io/?url=https://www.youtube.com/@NHKWORLDJAPAN/live
 #EXTINF:-1 group-title="Japan" ch-number="" tvg-id="NHK.World.Premium.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/nhk-world-hd-int.png?raw=true",NHK World Premium 🇯🇵
 https://nhkw-pre-hlscomp.nhkworld.jp/rjcorzf66ioxnrgd/playlist.m3u8
 
+#EXTINF:-1 group-title="Japan" ch-number="" tvg-id="ＷＯＷＯＷシネマ.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Top_expla_cinema_rogo.gif/revision/latest?cb=20200215065051",WOWOW Cinema 🇯🇵 (Down)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=7
+
+#EXTINF:-1 group-title="Japan" ch-number="" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659",WOWOW Live 🇯🇵 (Down)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
+
+#EXTINF:-1 group-title="Japan" ch-number="" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334",WOWOW Prime 🇯🇵 (Down)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=7
+
+#EXTINF:-1 group-title="Japan" ch-number="" tvg-id="Toei.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",Toei Channel 🇯🇵 (Down)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=7
+
+#EXTINF:-1 group-title="Japan" ch-number="" tvg-id="24.7.Dummy.us" tvg-logo="https://ih1.redbubble.net/image.3098272268.1413/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",Gaki no Tsukai 🇯🇵
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+
 #EXTINF:-1 group-title="YouTube" ch-number="" tvg-id="24.7.Dummy.us" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mpIQ3U-_W4KRzXYgYaQvC6yJhfcAxYA61V_wJUg6s1hww=s88-c-k-c0x00ffffff-no-rj",ANN Keyakizaka Illumination 🇯🇵
 https://ytl1.majinken.workers.dev/stream/b37tt6aEREw/master.m3u8
 
@@ -735,6 +750,5 @@ https://ytl2.majinken.workers.dev/@shibuyasky7253.m3u8
 
 #EXTINF:-1 group-title="iseeu" ch-number="" tvg-id="24.7.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/m-PTCLbWNb0KidCgxb3XcYvAZSsW63wpCfwbD0Q9XhCQpDGSqSB7k62E2uZe-3WPNjQpnzhiQw=s160-c-k-c0x00ffffff-no-rj",Shibuya Sky 🇯🇵
 https://iseeu.tiiny.io/?url=https://www.youtube.com/@shibuyasky7253/live
-
 
 
