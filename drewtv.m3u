@@ -158,7 +158,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.m3u8
 #EXTINF:-1 group-title="Indihome" ch-number="" tvg-id="AFN.(HD).sg" tvg-name="AFN" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
 https://ln.run/7rN1n
 
-#EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="Asianfoodnetwork.ph" tvg-name="AFN.ph" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",AFN
+#EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="Asianfoodnetwork.ph" tvg-name="AFN.ph" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/asian-food-network-hk.png?raw=true",AFN
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
@@ -321,6 +321,11 @@ https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
 
 #EXTINF:-1 group-title="Backup" ch-number="" tvg-id="DISCOVERYASIA.ph" tvg-name="DISCOVERYASIA.ph" tvg-logo="https://i.imgur.com/SbiPKql.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+
+#EXTINF:-1 group-title="Cignal" ch-number="" tvg-id="DISCOVERYCHANNEL.ph" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true",Discovery Channel 🇵🇭
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 
 #EXTINF:-1 group-title="US" ch-number="" tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-us.png?raw=true",Discovery Channel 🇺🇸
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
@@ -826,10 +831,6 @@ https://dk9k3t9vof80w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="UK_Rakuten" ch-number="" tvg-id="UK:.Red.Bull.TV.en" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true",Red Bull TV 🇬🇧
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="SPOTV.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
-#https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/2560px-SPOTV_logo.svg.png
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/728.m3u8
-
 #EXTINF:-1 group-title="Indihome" ch-number="" tvg-id="SPOTV.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
@@ -845,6 +846,10 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122760
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
+#EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="SPOTV.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+#https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/2560px-SPOTV_logo.svg.png
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/728.m3u8
+
 #EXTINF:-1 group-title="Backup" ch-number="" tvg-id="SPOTV.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
 https://wag.ika.lat/onse/spotvhd_dr.m3u8
 
@@ -852,9 +857,6 @@ https://wag.ika.lat/onse/spotvhd_dr.m3u8
 #https://iili.io/MkG2hg.png
 #https://static.wikia.nocookie.net/logopedia/images/7/74/SPOTV2_logo.png/revision/latest?cb=20230507020818
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-#EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="SPOTV.2.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/729.m3u8
 
 #EXTINF:-1 group-title="Down" ch-number="" tvg-id="SPOTV.2.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -867,6 +869,9 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122772
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
+#EXTINF:-1 group-title="Malaysia" ch-number="" tvg-id="SPOTV.2.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/729.m3u8
 
 #EXTINF:-1 group-title="Backup" ch-number="" tvg-id="SPOTV.2.HD.id" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV2
 https://wag.ika.lat/trese/spotv2hd_dr.m3u8
