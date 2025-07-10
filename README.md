@@ -2,4 +2,4 @@
 
 My own private TV.
 
-⛔NOT FOR SHARING, SALE, RE-SELL or USE FOR PUBLIC VIEWING, for Private Use only!⚔️"
+⛔This list is for PRIVATE USE ONLY! NOT FOR SHARING, SALE, RESALE, RE-SELL or USE FOR PUBLIC VIEWING!⚔️
