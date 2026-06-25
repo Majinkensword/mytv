@@ -1,4 +1,4 @@
-# mIPTV
+# ReadMe
 
 My own private TV.
 
